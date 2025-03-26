@@ -1,4 +1,4 @@
-class Sops < Formula
+class SopsAT393 < Formula
   desc "Editor of encrypted files"
   homepage "https://github.com/getsops/sops"
   url "https://github.com/getsops/sops/archive/refs/tags/v3.9.3.tar.gz"
