@@ -4,7 +4,7 @@ class SopsAT393 < Formula
   url "https://github.com/getsops/sops/archive/refs/tags/v3.9.3.tar.gz"
   sha256 "07f21ad574df8153d28f9bcd0a6e5d03c436cb9a45664a9af767a70a7d7662b9"
   license "MPL-2.0"
-  head "https://github.com/getsops/sops.git", branch: "master"
+  head "https://github.com/getsops/sops.git", tag: "v3.9.3"
 
   bottle do
     sha256 cellar: :any_skip_relocation, arm64_sequoia: "b1aa5657001bfb39de354d1b42fb91f94bbdb0c62544d4c7c80fec95a7b735d2"
