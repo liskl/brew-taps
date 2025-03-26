@@ -1,15 +1,15 @@
-# Lisklr Local-sops
+# liskl/brew-taps
 
 ## How do I install these formulae?
 
-`brew install lisklr/local-sops/<formula>`
+`brew install liskl/brew-taps/<formula>`
 
-Or `brew tap lisklr/local-sops` and then `brew install <formula>`.
+Or `brew tap liskl/brew-taps` and then `brew install <formula>`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
-tap "lisklr/local-sops"
+tap "liskl/brew-taps"
 brew "<formula>"
 ```
 
